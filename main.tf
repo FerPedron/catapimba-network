@@ -18,6 +18,8 @@ module "vpc" {
     Terraform   = "true"
     Environment = "dev"
     Name        = "catapimba-corps"
-    CC		= "10501"
-  }
+    CC		= "105022
+
+
+ }
 }
